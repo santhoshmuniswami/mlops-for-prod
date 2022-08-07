@@ -1,9 +1,9 @@
-.. MLOps_for_prod documentation master file, created by
+.. churn_model documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-MLOps_for_prod documentation!
+churn_model documentation!
 ==============================================
 
 Contents:

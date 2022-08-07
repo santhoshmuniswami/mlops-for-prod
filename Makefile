@@ -7,7 +7,7 @@
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 BUCKET = [OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')
 PROFILE = default
-PROJECT_NAME = MLOps_for_prod
+PROJECT_NAME = churn_model
 PYTHON_INTERPRETER = python3
 
 ifeq (,$(shell which conda))
