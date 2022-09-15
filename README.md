@@ -1,4 +1,5 @@
-churn_model
+Building an end to end ML Ops solution for ML productiondeployments at scale
+
 ==============================
 
 End to End Machine learning pipeline with MLOps tools
@@ -54,4 +55,3 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
