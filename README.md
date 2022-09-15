@@ -1,4 +1,4 @@
-Building an end to end ML Ops solution for ML productiondeployments at scale
+Building an end to end ML Ops solution for ML production deployments at scale
 
 ==============================
 
